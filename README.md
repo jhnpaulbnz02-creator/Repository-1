@@ -1,2 +1,1 @@
-GITHUB ACTIVITY 1
-GITHUB EDIT
+Edited directly on GitHub.
